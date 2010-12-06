@@ -31,7 +31,7 @@ module Blacklight
       @facet_values = set_facet_values
       @value_sorted_facet_values = get_value_sorted_facet_values
       @hit_sorted_facet_values = get_hit_sorted_facet_values
-      debugger
+
       @min_hits = hit_sorted_facet_values.first.hits
       @max_hits = hit_sorted_facet_values.last.hits
 
