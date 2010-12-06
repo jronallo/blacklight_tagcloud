@@ -1,0 +1,20 @@
+BlacklightTagcloud
+==================
+
+Provides helper methods for creating a tag cloud.
+
+
+Example
+=======
+
+<%= tagcloud %>
+
+
+Author
+======
+
+Jason Ronallo
+
+
+Copyright (c) 2010 North Carolina State University, released under the MIT license
+
